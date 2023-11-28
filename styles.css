@@ -408,3 +408,11 @@ a:hover {
 .social-item:hover {
     background-color: var(--dark-color);
 }
+
+.outline-text {
+    -webkit-text-stroke: 1px white;
+}
+
+.text-gray {
+    color: var(--gray-color) !important;
+}
